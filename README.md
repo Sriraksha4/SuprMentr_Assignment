@@ -43,3 +43,12 @@ This repository contains a comprehensive collection of Python scripts, Machine L
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Sriraksha4/SuprMentr_Assignment.git](https://github.com/Sriraksha4/SuprMentr_Assignment.git)
+
+
+Install dependencies:
+Bash
+pip install scikit-learn pandas numpy matplotlib nltk
+
+Run any script:
+Bash
+python filename.py
