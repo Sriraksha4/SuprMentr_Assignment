@@ -1,0 +1,31 @@
+1. College – Student Performance Prediction
+Machine learning can be used in colleges to predict student academic performance.
+
+Input: Attendance, study hours, internal marks, assignment scores
+Output: Predicted final exam marks or pass/fail result
+
+This can help teachers identify students who may need extra support.
+
+2. Healthcare – Disease Prediction
+Machine learning can help doctors predict diseases at an early stage.
+
+Input: Age, symptoms, blood pressure, sugar levels, medical history
+Output: Predicted disease risk or possible health condition
+
+This can improve early diagnosis and treatment planning.
+
+3. Shopping – Product Recommendation System
+Machine learning can improve online shopping by suggesting products.
+
+Input: Search history, clicked products, purchase history, ratings
+Output: Recommended products
+
+This helps users find items they may be interested in buying.
+
+4. Transportation – Traffic Prediction
+Machine learning can be used to predict traffic and congestion levels.
+
+Input: Time, day, weather, road usage data
+Output: Predicted traffic level or best route suggestion
+
+This helps save travel time and reduce road congestion.

@@ -1,0 +1,33 @@
+1. Features Used in Spam Detection
+The system can look at several features, such as:
+
+- Presence of suspicious words like "Free", "Win", "Offer", "Congratulations"
+- Number of links in the email/message
+- Whether the sender is known or unknown
+- Too many capital letters
+- Too many special symbols
+- Message length
+- Repeated words
+
+These features help the model understand whether a message looks suspicious.
+
+2. Data Needed
+To train a spam detection system, we need:
+
+- A dataset of spam messages
+- A dataset of non-spam (normal) messages
+- Labels showing whether each message is spam or not
+
+The more examples the system sees, the better it can learn patterns.
+
+3. Possible Mistakes
+A spam classifier can make two major mistakes:
+
+False Positive
+A normal and important email may be wrongly marked as spam.
+Example: A college placement email goes to the spam folder.
+
+False Negative
+A spam message may be wrongly marked as normal.
+Example: A fake lottery message appears in the inbox.
+

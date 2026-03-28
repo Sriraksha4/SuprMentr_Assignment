@@ -1,0 +1,26 @@
+1. Google Maps
+Google Maps uses AI to predict traffic and suggest the fastest routes. Machine learning studies past traffic patterns and live location data to improve route suggestions.
+
+2. YouTube Recommendations
+YouTube uses AI to recommend videos based on what I watch, like, and search. ML identifies similar viewing behavior among users and suggests relevant content.
+
+3. Instagram Feed
+Instagram uses AI to decide which posts and reels to show first. Machine learning analyzes likes, shares, comments, and watch time to rank content.
+
+4. Gmail Spam Filter
+Gmail uses AI to detect spam emails automatically. ML models are trained on thousands of spam and genuine emails to classify incoming messages.
+
+5. Netflix Recommendations
+Netflix uses AI to suggest movies and web series based on my watch history. ML compares my interests with similar users and predicts what I may like.
+
+6. Amazon Product Suggestions
+Amazon uses AI to recommend products while shopping. Machine learning studies browsing history, purchases, and product clicks to make suggestions.
+
+7. Voice Assistants (Siri / Alexa / Google Assistant)
+These assistants use AI to understand voice commands and reply. NLP (Natural Language Processing) helps convert speech into meaningful actions.
+
+8. Google Search
+Google Search uses AI to rank the most useful results. ML understands user intent and improves search relevance based on patterns and previous searches.
+
+9. Face Unlock on Smartphone
+Face unlock uses AI and computer vision to recognize my face. ML helps compare facial features and identify whether the face matches the authorized user.

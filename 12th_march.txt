@@ -1,0 +1,28 @@
+Step 1:
+Is it sunny?
+
+- If Yes, go to Step 2
+- If No, go to Step 3
+
+Step 2:
+Is it too hot?
+
+- If Yes → Do Not Play Outside
+- If No → Play Outside
+
+Step 3:
+Is it raining?
+
+- If Yes → Do Not Play Outside
+- If No → Play Outside
+
+Text Form of Decision Tree:
+
+Weather = Sunny
+- Too Hot = Yes → Do Not Play
+- Too Hot = No → Play
+
+Weather = Not Sunny
+- Raining = Yes → Do Not Play
+- Raining = No → Play
+
