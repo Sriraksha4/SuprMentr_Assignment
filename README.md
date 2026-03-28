@@ -46,9 +46,9 @@ This repository contains a comprehensive collection of Python scripts, Machine L
 
 
 Install dependencies:
-                    Bash
+             
                pip install scikit-learn pandas numpy matplotlib nltk
 
 Run any script:
-                   Bash
+                 
             python filename.py
