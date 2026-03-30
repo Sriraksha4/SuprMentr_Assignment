@@ -159,24 +159,7 @@ Compares **weak vs strong prompts** for tasks such as:
 
 This assignment demonstrates the importance of **clear and context-rich prompting**.
 
----
 
-# 📁 Output / Supporting Text Files
-
-This repository also contains several `.txt` files used for:
-- output storage
-- conceptual writeups
-- assignment explanations
-- lab/manual support
-
-Examples include:
-- `07th_march.txt`
-- `09th_feb.txt`
-- `10th_march.txt`
-- `12th_march.txt`
-- assignment output files generated from Python programs
-
----
 
 # 🛠️ Tech Stack
 
